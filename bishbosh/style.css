@@ -1,0 +1,17 @@
+
+body
+{
+    background-color: bisque;
+}
+
+
+#header
+{
+    background-color: brown;
+    height: 60px;
+}
+#footer
+{
+    background-color: gray;
+    height: 60px;
+}
